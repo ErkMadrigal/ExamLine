@@ -1,6 +1,7 @@
 <?php 
     include 'modulos/raizExam.php'; 
     $title  = "Bienvenido ";  
+    $menu=true;
     include 'modulos/componentes/header.php';
     
     $url=(isset($_GET['dir']))?$_GET['dir']:'index';
