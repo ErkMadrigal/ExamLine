@@ -30,7 +30,7 @@
                                     <label for="validationDefaultUsername">Password</label>
                                     <div class="input-group">
                                         <div class="input-group-prepend">
-                                        <span class="input-group-text"></span>
+                                        <span class="input-group-text"><i class="fas fa-key"></i></span>
                                         </div>
                                         <input required type="password" class="form-control" aria-describedby="passwordHelpBlock" placeholder="enter your password">
                                         <div class="invalid-tooltip">
@@ -42,7 +42,7 @@
                                     <label for="validationDefaultUsername">Verification</label>
                                     <div class="input-group">
                                         <div class="input-group-prepend">
-                                        <span class="input-group-text"> </span>
+                                        <span class="input-group-text"><i class="fas fa-user-check"></i></span>
                                         </div>
                                         <input required type="number" class="form-control" aria-describedby="inputGroupPrepend2" placeholder="Verification code">
                                         <div class="invalid-tooltip">

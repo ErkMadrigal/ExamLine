@@ -1,5 +1,5 @@
 <!-- footer -->
-<footer class="bg-light text-center p-2 mt-3">
+<footer class="bg-light text-center p-2">
             <p class="h6">© Examen  <?php echo (new DateTime())->format('Y-m-d');?></p>
         </footer>
         <!-- end footer -->

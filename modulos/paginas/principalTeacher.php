@@ -1,7 +1,7 @@
 <div class="row w-100 m-0">
 
     <!-- Earnings (Monthly) Card Example -->
-    <div class="col-lg-3 col-md-6 col-sm-12 mt-2 p-2">
+    <div class="col-lg-3 col-md-6 col-sm-12 mt-2 p-2 animated bounceInDown">
         <div class="card border-left-primary shadow h-100 py-2">
             <div class="card-body">
                 <div class="row no-gutters align-items-center">
@@ -19,7 +19,7 @@
     </div>
 
     <!-- Earnings (Monthly) Card Example -->
-    <div class="col-lg-3 col-md-6 col-sm-12 mt-2 p-2">
+    <div class="col-lg-3 col-md-6 col-sm-12 mt-2 p-2 animated bounceInDown">
         <div class="card border-left-success shadow h-100 py-2">
             <div class="card-body">
                 <div class="row no-gutters align-items-center">
@@ -37,7 +37,7 @@
     </div>
 
     <!-- Earnings (Monthly) Card Example -->
-    <div class="col-lg-3 col-md-6 col-sm-12 mt-2 p-2">
+    <div class="col-lg-3 col-md-6 col-sm-12 mt-2 p-2 animated bounceInDown">
         <div class="card border-left-info shadow h-100 py-2">
             <div class="card-body">
                 <div class="row no-gutters align-items-center">
@@ -64,7 +64,7 @@
     </div>
 
     <!-- Pending Requests Card Example -->
-    <div class="col-lg-3 col-md-6 col-sm-12 mt-2 p-2">
+    <div class="col-lg-3 col-md-6 col-sm-12 mt-2 p-2 animated bounceInDown">
         <div class="card border-left-warning shadow h-100 py-2">
             <div class="card-body">
                 <div class="row no-gutters align-items-center">
@@ -83,7 +83,7 @@
 </div>
 
 <!-- Content Column -->
-<div class="col-lg-12 mt-3">
+<div class="col-lg-12 mt-3 animated bounceInUp">
     <!-- Project Card Example -->
     <div class="card shadow mb-4">
         <div class="card-header py-3">
@@ -129,7 +129,7 @@
       <div class="card-body">
         <h5 class="card-title">Special title treatment</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <a href="<?php echo $raizE;?>start.php?dir=examCal" class="btn btn-primary">Go somewhere</a>
       </div>
     </div>
     

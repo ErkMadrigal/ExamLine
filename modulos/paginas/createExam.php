@@ -1,6 +1,7 @@
 <link href="<?php echo $raizE;?>css/quill.snow.css" rel="stylesheet">
 
-<div class="row m-0 w-100 mt-5">
+<div class="row m-0 w-100 mt-5 animated bounceInDown
+">
    <div class="col-lg-12">
         <div class="card">
             <div class="card-body">

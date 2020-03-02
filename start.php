@@ -16,6 +16,9 @@
         case 'perfile':
             include 'modulos/paginas/perfile.php';
             break;
+        case 'examCal':
+            include 'modulos/paginas/examCal.php';
+            break;
           default:
             include 'modulos/paginas/principalTeacher.php';
             break;

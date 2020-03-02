@@ -16,11 +16,8 @@
                 </div>
                 <div class="col-6">
                     <h1>Iniciar Examen</h1>
-                    <li class="h6 m-4">ubica el boton de Inicar examen y dar click</li>
                     <p class="h6 m-4">mucho exito en tu examen al terminar no olvides mandarlo para que sea registrado</p>
-                    
-
-
+                    <p class="h6"> recuerda que si se te descrube haciendo alguna anomalia o trampa durante el examen se te sera anulado </p>
                 </div>
             </div>
         </div>

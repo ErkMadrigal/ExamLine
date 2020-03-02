@@ -17,7 +17,7 @@
                                 <div class="form-grup mt-4">
                                     <div class="input-group">
                                         <div class="input-group-prepend">
-                                        <span class="input-group-text">@</span>
+                                        <span class="input-group-text"><i class="fas fa-file-signature"></i></span>
                                         </div>
                                         <input required type="text" class="form-control" placeholder="Nombre del docente">
                                         <div class="invalid-tooltip">
@@ -28,7 +28,7 @@
                                 <div class="form-grup mt-4">
                                     <div class="input-group">
                                         <div class="input-group-prepend">
-                                        <span class="input-group-text">@</span>
+                                        <span class="input-group-text"><i class="fas fa-address-book"></i></span>
                                         </div>
                                         <input required type="text" class="form-control" placeholder="Materia">
                                         <div class="invalid-tooltip">
@@ -39,7 +39,7 @@
                                 <div class="form-grup mt-4">
                                     <div class="input-group">
                                         <div class="input-group-prepend">
-                                        <span class="input-group-text">@</span>
+                                        <span class="input-group-text"><i class="fas fa-users"></i></span>
                                         </div>
                                         <input required type="text" class="form-control" placeholder="Grupo">
                                         <div class="invalid-tooltip">
@@ -50,7 +50,7 @@
                                 <div class="form-grup mt-4">
                                     <div class="input-group">
                                         <div class="input-group-prepend">
-                                        <span class="input-group-text">@</span>
+                                        <span class="input-group-text"><i class="fas fa-address-card"></i></span>
                                         </div>
                                         <input required type="text" class="form-control" placeholder="Nombre del Alumno">
                                         <div class="invalid-tooltip">
